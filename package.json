@@ -1,0 +1,26 @@
+{
+  "name": "cordova-plugin-advanced-websocket-hostname-verifier",
+  "version": "1.1.8",
+  "cordova": {
+    "id": "cordova-plugin-advanced-websocket-hostname-verifier",
+    "platforms": [
+      "android",
+      "ios",
+      "browser"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlossilveira-commonms/cordova-plugin-advanced-websocket-hostname-verifier.git"
+  },
+  "keywords": [
+    "cordova",
+    "websocket",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-browser"
+  ],
+  "description": "Cordova Plugin for using WebSockets",
+  "author": "HomeControl AS",
+  "license": "MIT"
+}
